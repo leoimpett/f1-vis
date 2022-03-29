@@ -66,10 +66,3 @@
  * [Speed traces](Saudi%20Arabia_Q_SpeedTraces.html)
  * [Gear ratios](Saudi%20Arabia_Q_Gears.html)
 
-
-### Session: R
- * [Track map: time deltas](Saudi%20Arabia_R_deltamap.html)
- * [Track map: speed deltas](Saudi%20Arabia_R_SpeedDeltas.html)
- * [Speed traces](Saudi%20Arabia_R_SpeedTraces.html)
- * [Gear ratios](Saudi%20Arabia_R_Gears.html)
-
